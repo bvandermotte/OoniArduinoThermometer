@@ -57,7 +57,7 @@ And a video of it working (OoniTemp.mp4)
 
 <h2>Temperature on the TOP of the BOTTOM of the stone</h2>
 
-When I posted the thermometer there was some kind of debate if it was efficient to measure the temp at the bottom of the stone.
+When I posted the thermometer on Reddit there was some kind of debate if it was efficient to measure the temp at the bottom of the stone.
 
 So like I said, in the post, 
 
@@ -68,4 +68,3 @@ So with experience I'll know that when the bottom has reached xx degrees, the st
 I'm just curious to see if wind/external temp could influence the correlation top temp/bottom temp because where the thermocouple is in contact with the stone, the stone is exposed (but it's the easiest access to the stone).
 
 If that's the case I'll build some closed room around the thermocouple to minimize it.</i>
-
