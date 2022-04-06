@@ -15,6 +15,29 @@ Let me present you:
 
 <h2>Electrical circuit:</h2>
   
-The file : ShemaWires.jpg shows you how I assembled everything together.
-You can obviously change the input and outputs but you need to whange the code then.
- 
+The file : ShemaWires.jpg shows you how to assemble everything together.
+You can obviously change the inputs and outputs but then you need to change the code too.
+
+<h2>The code</h2>
+
+Once, everything is assembled, you just need to load the script on the arduino.
+You can find the script in the OoniTemp folder.
+Open with the arduino IDE, connect the arduino to your computer and click on the send button.
+
+<h2>!Important!</h2> 
+
+I had to change the line <br/>
+#define SCREEN_ADDRESS 0x3C ///0x3D for 128x64, 0x3C for 128x32<br/>
+to:<br/>
+#define SCREEN_ADDRESS 0x3C ///0x3D for 128x64, 0x3C for 128x32<br/>
+
+To get the screen working even if it's an 128x64 screen
+
+
+<h2>Fix the thermometer to the oven</h2>
+
+If you've noticed, there is a hole at the bottom of your Ooni oven under the stone.
+Somme say it is to get the stone out of the oven but it has another benefit :
+
+to fix your brand new assembled Ooni thermometer!
+
