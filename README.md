@@ -32,7 +32,7 @@ Don't forget to download/enable the libraries needed included at the top of the 
 
 I had to change the line <br/>
 
-#define SCREEN_ADDRESS 0x3C ///0x3D for 128x64, 0x3C for 128x32<br/>
+#define SCREEN_ADDRESS 0x3D ///0x3D for 128x64, 0x3C for 128x32<br/>
 
 to:<br/>
 
