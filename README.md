@@ -3,9 +3,9 @@ You want to know when the stone is hyper super ready to cook amazing pizza's?
 
 Let me present you:
 
-<h3>The Ooni stone thermometer.</h3>
+<h2>The Ooni stone thermometer.</h2>
 
-<h2>Material used:</h2>
+<h3>Material used:</h3>
 
 - An arduino nano (can also be an uno) -> https://www.amazon.nl/AZDelivery-Nano-Gesoldeerd-Verbeterde-V3/dp/B01MS7DUEM/<br/>
 - An Oled screen 128x64 -> https://www.amazon.nl/AZDelivery-SSD1306-compatibel-Raspberry-Inclusief/dp/B01L9GC470/<br/>
@@ -13,14 +13,14 @@ Let me present you:
 - A battery to give power to everything
 - A piece of metal to fix the thermocouple to the stone.
 
-<h2>Electrical circuit:</h2>
+<h3>Electrical circuit:</h3>
   
 The file : ShemaWires.jpg shows you how to assemble everything together.
 You can obviously change the inputs and outputs but then you need to change the code too.
 
 Note that you can't change the two Analogic outputs (4,5) for the screen.
 
-<h2>The code</h2>
+<h3>The code</h3>
 
 Once, everything is assembled, you just need to load the script on the arduino.
 You can find the script in the OoniTemp folder.
@@ -41,7 +41,7 @@ to:<br/>
 To get the screen working even if it's an 128x64 screen.
 
 
-<h2>Fix the thermometer to the oven</h2>
+<h3>Fix the thermometer to the oven</h3>
 
 If you've noticed, there is a hole at the bottom of your Ooni oven under the stone.
 Somme say it is to get the stone out of the oven but it has another benefit :
@@ -55,7 +55,7 @@ You can find an illustration in the file Attach.jpg
 
 And a video of it working (OoniTemp.mp4)
 
-<h2>Temperature on the TOP of the BOTTOM of the stone</h2>
+<h3>Temperature on the TOP of the BOTTOM of the stone</h3>
 
 When I posted the thermometer on Reddit there was some kind of debate if it was efficient to measure the temp at the bottom of the stone.
 
