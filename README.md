@@ -1,3 +1,7 @@
+Questions, remarks or just telling me you like it ? Let me know at http://twitter.com/elonmusksmentor
+
+<Hr>
+
 You have an Ooni pizza oven?
 You want to know when the stone is hyper super ready to cook amazing pizza's?
 
