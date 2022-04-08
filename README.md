@@ -59,7 +59,7 @@ You can find an illustration in the file Attach.jpg
 
 And a video of it working (OoniTemp.mp4)
 
-<h3>Temperature on the TOP of the BOTTOM of the stone</h3>
+<h3>Temperature on the "TOP of" or the "BOTTOM of" the stone</h3>
 
 When I posted the thermometer on Reddit there was some kind of debate if it was efficient to measure the temp at the bottom of the stone.
 
